@@ -287,3 +287,57 @@ section .konten-wisata img {
         width: 90%;
     }
  }
+
+@media screen and (max-width: 767px) {
+    .layar-dalam {
+        width: 90%;
+    }
+    nav .menu ul {
+        display: none;
+        margin-top: 60px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    nav .menu ul li {
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+        background-color: #ffff;
+        line-height: 40px;
+    }
+    section .konten-isi img {
+        width: 400px;
+    }
+    nav .menu ul li a {
+        color: #333;
+    }
+    .tombol-menu {
+        display: flex;
+    }
+    .sda h6 {
+        margin: 0px;
+        margin-top: 20px;
+        padding: 0px;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .sda p {
+        font-size: 13px;
+    }
+    .sda img {
+        width: 90px;
+    }
+    .dalam-ekonomi {
+        width: 90%;
+    }
+    .dalam-wisata {
+        width: 90%;
+    }
+    section .dalam-ekonomi img {
+        width: 400px;
+    }
+    section .konten-wisata img {
+        width: 300px;
+    }
+ }
