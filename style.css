@@ -308,8 +308,15 @@ section .konten-wisata img {
         background-color: #ffff;
         line-height: 40px;
     }
+    header .intro h3 {
+    font-size: 43px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    margin-bottom: 10px;
+    }
     section .konten-isi img {
-        width: 340px;
+        width: 334px;
     }
     nav .menu ul li a {
         color: #333;
@@ -337,7 +344,7 @@ section .konten-wisata img {
         width: 90%;
     }
     section .dalam-ekonomi img {
-        width: 340px;
+        width: 334px;
     }
     section .konten-wisata img {
         width: 300px;
