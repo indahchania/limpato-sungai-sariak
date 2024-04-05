@@ -12,4 +12,4 @@ Mempromosikan dan mendokumentasikan upaya pengembangan masyarakat oleh KKN UNP L
 - **Desain Responsif:** Website ini dirancang untuk berfungsi dengan lancar di berbagai perangkat, termasuk ponsel.
 - **Inisiatif Masyarakat:** Sorot berbagai proyek dan inisiatif yang dilakukan oleh KKN UNP di masyarakat Nagari Limpato Sungai Sariak.
 
-https://indahchania.github.io/limpato-sungai-sariak/
+
