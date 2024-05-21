@@ -171,6 +171,12 @@ section .konten-isi ul li {
 section .konten-isi img {
     width: 700px;
 }
+section .konten-isi .centered-link {
+    display: block;
+    text-align: center;
+    margin: 10px auto; 
+    width: fit-content;
+}
 nav.putih{
     background-color: #fff;
 }
